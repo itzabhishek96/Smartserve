@@ -4,6 +4,158 @@
   "parameters": { "query": "software engineer", "page": 1, "num_pages": 10 },
   "data": [
     {
+      "employer_name": "Indiamart Portal",
+      "employer_logo": "https://odintindia.com/wp-content/uploads/2023/03/logoo.png",
+      "employer_website": "https://www.odintindia.in/",
+      "employer_company_type": "Miscellaneous",
+      "job_publisher": "Odint Technology India",
+      "job_id": "eg:xyz",
+      "job_employment_type": "FullTime",
+      "job_title": "Direct Sales Executive",
+      "job_apply_link": "https://www.naukri.com/job-listings-sales-executive-handling-indiamart-portal-odint-technology-india-mumbai-all-areas-0-to-1-years-270124002500?src=seo_srp&sid=17075606119899099&xp=4&px=1",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.7968,
+      "apply_options": [
+        {
+          "publisher": "Naukri",
+          "apply_link": "https://www.naukri.com/job-listings-sales-executive-handling-indiamart-portal-odint-technology-india-mumbai-all-areas-0-to-1-years-270124002500?src=seo_srp&sid=17075606119899099&xp=4&px=1",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Persuade the customer products & services for meeting their needs Go “extra mile” to meet sales target Lead Generation for Niche Products Understand the scope & requirements of work Complete hands on experience on Indiamart portal",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1698105600,
+      "job_posted_at_datetime_utc": "2023-10-24T00:00:00.000Z",
+      "job_city": "Mumbai",
+      "job_state": "MH",
+      "job_country": "IN",
+      "job_latitude": "",
+      "job_longitude": "",
+      "job_benefits": [
+        "health_insurance",
+        "paid_time_off",
+        "retirement_savings"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=software+engineer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=software+engineer&htidocid=yj3XyQEFA-4cQWxnAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 48,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": "Any UG",
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": ["Any Graduate"],
+        "Responsibilities": [
+          "Direct sales representatives create customer awareness of companies' products and services.",
+          "They are responsible for presenting companies products and services to potential customers and closing sales."
+        ],
+        "Benefits": [
+          "Benefits: Beyond our great compensation package, you can receive incentive awards for your performance",
+          "Other great perks include 401(k) match, stock purchase plan, paid maternity and parental leave, PTO, multiple health plans, and much more"
+        ]
+      },
+      "job_job_title": "Direct sales executive ",
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4",
+      "job_naics_code": "452990",
+      "job_naics_name": "All Other General Merchandise Stores"
+    },
+    {
+      "employer_name": "ALPHA STAR SHIPPING LLC",
+      "employer_logo": "data:image/jpeg;base64,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7LSgWZOwhkzOV8nDk4EKLNNdGdTESad8dQzcLiGXza47J8neSm91MrTqJSQtlHkRzqjPdnm2q0TUxEiWCdlsyY3bPk61isHrbZ4eOC9OGgVt2jLqZanvRC9Ku881xlzjZrXOPAAk/RbKl0NVSfu6ec8ywxt/E+wXoD1Z4qg6KR6l9EFpF1ZEGj9QKh+M0kUDeH76QeTbN/vLsNCam0NOQ57DUSD3prOYPCMdn5gnmutOiVSdEKKV05c2SwphHoXBpYAWAsBgBkAOAX31wrPqgp6oKiJS964T1urPqgp6oKAv+t1RUVzJGOjka18bxZzTiHDgVR6oVQ0Sh9TwR/pvU7EupHbTfsnGzm8gciPGx8VyldoOVp7UUoI4tdY+ByKm0aKVY0Yq8tNFvK2Nqnt2+MeGxKXjyfqtn8VkgePRTzlHIfAErc6N1SqZCPZlgO9/s2j59r5BTENGq43R6+LTLqzuXb1mPcrS823/AEcxq3qdT09ny+2mFiLj2bTxA948z8guxFQFZbRK42mU8YRisJGPfqLb58dssv8AOS6fAuiRVgq22JXAF0Qn1ERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREAREQBERAEREB//Z",
+      "employer_website": "https://www.alphastarshipping.com/",
+      "employer_company_type": "Retail",
+      "job_publisher": "indeed.com",
+      "job_id": "yj3XyQEFA-4cQWxnAAAAAA==",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Inside Sales Executive",
+      "job_apply_link": "https://in.indeed.com/viewjob?jk=974c5b867072ce43&l=India&tk=1hm9ak7pk2qtd00b&from=web&advn=5249602769140582&adid=426058716&ad=-6NYlbfkN0A1Vqjw2FskQQt6REWelY3vWDuqDGb6xZtTiha-thz_VP63MRNGoXjCpLcJHtYbizKZivQcX6ow_XZwlfAyaF2zo7N_D3QGLTV85H-ibfdifAAppzUl-3-cxGPT0E2Q_SBf-dzk4jQAH5INSqS3z-C7e-K5xiEJGV3xC6_SZe1G001RwHuFCzIBzec_q48FkrB486yG27fs6ZHSZkrP7FFUcqy-xoh4DmoeY-2OIrH3gZQ5TRK-eF2iY0JbWmuwS07nwDMF0BYLp0bkvJ0Tw-NHuue5aYWDy7voTzq2oUd8mXE-Cp-SbdJx1zDdXhV1uCUDRmluwIAsST0eXJMUGZ_hoKQJNcezDRSWpLZpdJzefzuS3NjDWbg0IQyYJZ2RLjEXfa1wO9WOpGUHQEP9u7fIe_7QOorzHJwmBFpKzjrUMfZFWD3aoHlf7bxwEJxZOHXuNxM8TtOIv8LCwQeYYmX9RVY0wXbP8crH6pybGgzgYeIHPwDRMCNIgy4n6jzec4Y%3D&pub=4a1b367933fd867b19b072952f68dceb&camk=4HOcmqOLYrBvziYe_lZs8w%3D%3D&xkcb=SoA96_M3EJde1XxZQ50BbzkdCdPP&xpse=SoAk6_I3EJdX1hgIkb0JbzkdCdPP&vjs=3",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.7968,
+      "apply_options": [
+        {
+          "publisher": "indeed.com",
+          "apply_link": "https://in.indeed.com/viewjob?jk=974c5b867072ce43&l=India&tk=1hm9ak7pk2qtd00b&from=web&advn=5249602769140582&adid=426058716&ad=-6NYlbfkN0A1Vqjw2FskQQt6REWelY3vWDuqDGb6xZtTiha-thz_VP63MRNGoXjCpLcJHtYbizKZivQcX6ow_XZwlfAyaF2zo7N_D3QGLTV85H-ibfdifAAppzUl-3-cxGPT0E2Q_SBf-dzk4jQAH5INSqS3z-C7e-K5xiEJGV3xC6_SZe1G001RwHuFCzIBzec_q48FkrB486yG27fs6ZHSZkrP7FFUcqy-xoh4DmoeY-2OIrH3gZQ5TRK-eF2iY0JbWmuwS07nwDMF0BYLp0bkvJ0Tw-NHuue5aYWDy7voTzq2oUd8mXE-Cp-SbdJx1zDdXhV1uCUDRmluwIAsST0eXJMUGZ_hoKQJNcezDRSWpLZpdJzefzuS3NjDWbg0IQyYJZ2RLjEXfa1wO9WOpGUHQEP9u7fIe_7QOorzHJwmBFpKzjrUMfZFWD3aoHlf7bxwEJxZOHXuNxM8TtOIv8LCwQeYYmX9RVY0wXbP8crH6pybGgzgYeIHPwDRMCNIgy4n6jzec4Y%3D&pub=4a1b367933fd867b19b072952f68dceb&camk=4HOcmqOLYrBvziYe_lZs8w%3D%3D&xkcb=SoA96_M3EJde1XxZQ50BbzkdCdPP&xpse=SoAk6_I3EJdX1hgIkb0JbzkdCdPP&vjs=3",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Identify and qualify potential leads through research, outbound calls, and emails. Maintain MIS reports and Data Management.Create virtual presentations & demonstrations to showcase the solutions company offers.Continuously update knowledge on industry trends and competitors.Coordinate with inter-department and Management team",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1698105600,
+      "job_posted_at_datetime_utc": "2023-10-24T00:00:00.000Z",
+      "job_city": "Mumbai",
+      "job_state": "MH",
+      "job_country": "IN",
+      "job_latitude": 36.372356,
+      "job_longitude": -94.21021,
+      "job_benefits": [
+        "health_insurance",
+        "paid_time_off",
+        "retirement_savings"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=software+engineer&start=0&ibp=htl;jobs#fpstate=tldetail&htivrt=jobs&htiq=software+engineer&htidocid=yj3XyQEFA-4cQWxnAAAAAA%3D%3D",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": false,
+        "required_experience_in_months": 48,
+        "experience_mentioned": true,
+        "experience_preferred": false
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": true,
+        "degree_preferred": true,
+        "professional_certification_mentioned": false
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [],
+        "Responsibilities": [
+          "A Identify and qualify potential leads through research, outbound calls, and emails.",
+          "Maintain MIS reports and Data Management",
+          "Create virtual presentations & demonstrations to showcase the solutions company offers.",
+          "Continuously update knowledge on industry trends and competitors.",
+          "Coordinate with inter-department and Management team"
+        ],
+        "Benefits": []
+      },
+      "job_job_title": "Inside Sales Executive",
+      "job_posting_language": "en",
+      "job_onet_soc": "15113200",
+      "job_onet_job_zone": "4",
+      "job_naics_code": "452990",
+      "job_naics_name": "All Other General Merchandise Stores"
+    },
+    {
       "employer_name": "Abhimart",
       "employer_logo": "https://animationvisarts.com/wp-content/uploads/2020/08/Walmart-logo-2008-Now.jpg",
       "employer_website": "https://www.walmart.com",
