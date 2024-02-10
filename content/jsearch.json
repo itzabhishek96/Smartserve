@@ -4,7 +4,7 @@
   "parameters": { "query": "software engineer", "page": 1, "num_pages": 10 },
   "data": [
     {
-      "employer_name": "Walmart",
+      "employer_name": "Abhimart",
       "employer_logo": "https://animationvisarts.com/wp-content/uploads/2020/08/Walmart-logo-2008-Now.jpg",
       "employer_website": "https://www.walmart.com",
       "employer_company_type": "Retail",

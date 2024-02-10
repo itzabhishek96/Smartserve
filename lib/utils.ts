@@ -71,7 +71,7 @@ export const formUrlQuery = ({
 }: UrlQueryParams): string => {
   const currentUrl = qs.parse(params);
 
-  currentUrl[key] = value;
+  currentUrl[key] || null  == value;
 
   return qs.stringify(
     {
