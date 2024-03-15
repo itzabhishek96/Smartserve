@@ -39,12 +39,14 @@
 //   }
 // };
 
+
+
 import Replicate from "replicate";
 import { auth } from "@clerk/nextjs";
 import { NextResponse } from "next/server";
 
 //import { incrementApiLimit, checkApiLimit } from "@/lib/api-limit";
-import { checkSubscription } from "@/lib/subscription";
+// import { checkSubscription } from "@/lib/subscription";
 
 const replicate = new Replicate({
   auth: process.env.REPLICATE_API_TOKEN!,
@@ -67,7 +69,7 @@ export async function POST(
     }
 
     //const freeTrial = await checkApiLimit();
-    const isPro = await checkSubscription();
+    // const isPro = await checkSubscription();
 
     // if (!freeTrial && !isPro ) {
     //   return new NextResponse("Free trial has expired. Please upgrade to pro.", { status: 403 });

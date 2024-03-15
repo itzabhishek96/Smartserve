@@ -149,7 +149,7 @@ const LandingPage = () => {
           {generateFeature("Multiplatform Job Search", "Find your dream job across multiple platforms with our powerful job search tools", "/url=%2Fjobs")}
           {generateFeature("Text Summarization", "Summarize texts quickly & efficiently using our text summarization tech", "/app")}
           {generateFeature("Multilingual Translation", "Translate content effortlessly across multiple languages", "/translator")}
-          {generateFeature("Resume Builder Platform", "Create professional resumes in minutes with our easy-to-use resume builder tool", "/resume")}
+          {generateFeature("Resume Builder Platform", "Create professional resumes in minutes with our easy-to-use resume builder tool", "http://localhost:3001/editor")}
         </div>
       </div>
     </div>
